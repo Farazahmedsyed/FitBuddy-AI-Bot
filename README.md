@@ -1,2 +1,2 @@
 # FitBuddy-AI-Bot
-https://farazahmedsyed.github.io/FitBuddy-AI-Bot/mybot.html
+[Open the live FitBuddy chatbot](https://farazahmedsyed.github.io/FitBuddy-AI-Bot/mybot.html)
